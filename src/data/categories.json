@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "title":"Facial",
+        "image":"../assets/images/categories/facial.png"
+    },
+    {
+        "id":2,
+        "title":"Capilar",
+        "image":"../assets/images/categories/capilar.png"
+    },
+    {
+        "id":3,
+        "title":"Corporal",
+        "image":"../assets/images/categories/cbd.png"
+    },
+    {
+        "id":4,
+        "title":"CBD",
+        "image":"../assets/images/categories/corporal.png"
+    },
+    {
+        "id":5,
+        "title":"Bebes y Niños",
+        "image":"../assets/images/categories/bebesyiños.png"
+    },
+    {
+        "id":6,
+        "title":"Sin TACC",
+        "image":"../assets/images/categories/sintacc.png"
+    }
+]
