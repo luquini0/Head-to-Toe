@@ -43,6 +43,10 @@ npm install expo@^54.0.0
 
 Crea un archivo .env en la raíz del proyecto con las siguientes variables (usá tus datos de Firebase):
 
+EXPO_PUBLIC_BASE_URL_RTDB = https://from-head-to-toe-default-rtdb.firebaseio.com/
+EXPO_PUBLIC_BASE_URL_AUTH = https://identitytoolkit.googleapis.com/v1/
+EXPO_PUBLIC_FIREBASE_API_KEY = AIzaSyAHhyo7_YxHWyvU3Isq5xpsvUuzEIOpOng
+
 4. Iniciá la aplicación en modo desarrollo:
 
 npx expo start
